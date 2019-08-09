@@ -13,7 +13,7 @@ Heading
 Learned basic Github/Gitkraken/Markdown/Bookdown elements
 Still need to acccess the student package for github
 
-###Lab
+__*Lab*__
 
   - 6 different marine media are now in 125 mL flasks in 60 mL quantities
     -A1F
