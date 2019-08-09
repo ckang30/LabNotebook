@@ -10,3 +10,17 @@ Heading
 - sub
   - sub
   
+Learned basic Github/Gitkraken/Markdown/Bookdown elements
+Still need to acccess the student package for github
+
+###Lab
+
+- 6 different marine media are now in 125 mL flasks in 60 mL quantities
+  - A1F
+  - Marine NZSG
+  - Chitin (shrimp chitin used)
+  - CGS (used tryptic soy broth)
+  - ISP2 fresh bfe + c
+  - TB (terrific broth)
+- streaked marine plates of 137A-25 // K1164(70) and 139B-15 // K1088(66)
+- waiting for response on strain 114E-7 // kineo
