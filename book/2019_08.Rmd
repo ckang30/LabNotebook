@@ -28,9 +28,23 @@ __*Lab*__
   
 ## 08-14-2019
 
-  - restreaked K1164 onto marine plate and K1088 into flask into A1F media (check strains again)
+  - restreaked K1164 onto marine plate and K1088 into flask into A1F media
   - streaked from cryovials onto A1F plates and left at 37 degrees C
     - 131A-2 // K1214
     - 118C-2 // K1174
     - 128A-46 // K1040
     
+## 08-16-2019
+  - 6 different marine media 2 flasks each
+  - A1M and A1F plates made (1 sleeve each)
+  - 6 different freshwater media dry ingredients for 500 mL
+  - no growth in flask or plate
+  
+## 08-21-2019
+  - 6 different freshwater media finished for 5 flasks
+    - 200 mL leftover for each media was left on bench
+    - some 60 mL flasks on Chase's bench (ran out of room)
+  - no further growth on plates (the heating incubator was found turned off, was turned back on today)
+  - a bit of growth observed in flask
+  - took K1174 out of incubator into room temp
+  - streaked from the K1088 flask onto A1F plate, placed in 37 incuvator
