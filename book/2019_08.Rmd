@@ -25,3 +25,12 @@ __*Lab*__
     
   - streaked marine plates of 137A-25 // K1164(70) and 139B-15 // K1088(66)
   - waiting for response on strain 114E-7 // kineo
+  
+## 08-14-2019
+
+  - restreaked K1164 onto marine plate and K1088 into flask into A1F media (check strains again)
+  - streaked from cryovials onto A1F plates and left at 37 degrees C
+    - 131A-2 // K1214
+    - 118C-2 // K1174
+    - 128A-46 // K1040
+    
