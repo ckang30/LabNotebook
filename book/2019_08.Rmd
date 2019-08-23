@@ -56,6 +56,8 @@ __*Lab*__
     - waited for cryovials to melt longer
     - used parafilm
     - left K1174 on bench at room temp, others in 37 incubator
+    - ones without the old code 
+      - thawed completely, vortexed, pipetted 40 uL and streak with sterile loop
     
 *separate note*
 
