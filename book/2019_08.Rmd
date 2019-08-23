@@ -47,4 +47,19 @@ __*Lab*__
   - no further growth on plates (the heating incubator was found turned off, was turned back on today)
   - a bit of growth observed in flask
   - took K1174 out of incubator into room temp
-  - streaked from the K1088 flask onto A1F plate, placed in 37 incuvator
+  - streaked from the K1088 flask onto A1F plate, placed in 37 incubator
+
+## 08-23-2019
+  - no new growth observed on agar plates
+  - restreaked K1164, K1214, K1174, and K1040 onto respective agar plates 
+    - M, F, M, F
+    - waited for cryovials to melt longer
+    - used parafilm
+    - left K1174 on bench at room temp, others in 37 incubator
+    
+*separate note*
+
+  - 24 well plates in the order of
+    - TB, CGS, ISP2, NZSG, A1, Chitin
+    - pink tape marks the top 
+    
