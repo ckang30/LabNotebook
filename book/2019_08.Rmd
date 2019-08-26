@@ -65,3 +65,8 @@ __*Lab*__
     - TB, CGS, ISP2, NZSG, A1, Chitin
     - pink tape marks the top 
     
+## 08-26-2019
+  - K1174 grew at room temp on agar plate so now in A1M liquid media on shaker
+    - will need to make more A1M liquid media most likely
+  - pulled other strains (besides K1088) into room temp as well on bench
+    
