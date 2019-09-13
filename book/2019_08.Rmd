@@ -108,3 +108,10 @@ Check this table may not be right
   - K1174 from 8-28 is pure
   - K1088 had two strains in it so restreaked from cryovial onto new agar plate (pipette with 50 uL)
   - K1164 will be donated by Jeongho
+  
+  
+## 09-13-2019
+  
+    - K1214 looks pure 
+    - K1040 grown on A1F liquid media (whole cryovial) did not grow on A1F agar plate or in the media 
+    - K1088 into liquid media (M)
