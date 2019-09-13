@@ -82,3 +82,29 @@ cryovial --> agar plate --> liquid media flask --> agar plate for purification
 
 Check this table may not be right
 
+## 08-28-2019
+  - 1088 --> restreaking onto 2nd plate from liquid M
+  - 1040 --> dumping whole cryovial F
+  - 1214 --> putting into liquid media from uniform F
+  - 1164 --> Jeongho M
+  - 1174 --> streaking onto 2nd plate from liquid M
+  
+
+| Agar 1    | Liquid Media | Agar 2    | Purified Strain |
+| ------    | ------------ | ------    | --------------- |
+|           | K1174 (M)    | K1088 (M) |                 |
+|           | K1040 (F)    | K1174 (M) |                 |
+| K1164 (M) | K1214 (F)    |           |                 |
+
+## 09-09-2019
+
+| Agar 1    | Liquid Media | Agar 2    | Purified Strain |
+| ------    | ------------ | ------    | --------------- |
+| K1088 (M) |              | K1040 (F) |                 |
+|           |              | K1214 (F) |    K1174 (M)    |
+| K1164 (M) |              |           |                 |
+ 
+
+  - K1174 from 8-28 is pure
+  - K1088 had two strains in it so restreaked from cryovial onto new agar plate (pipette with 50 uL)
+  - K1164 will be donated by Jeongho
