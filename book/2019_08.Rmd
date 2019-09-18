@@ -122,3 +122,9 @@ Check this table may not be right
   - K1088 from liquid media onto new marine agar plate (second agar plate)
   - K1040 flask--will take 5 mL from it into new A1F media flask
   - A1M and A1F 500mL each dry components on bench for Friday
+
+###Plan for next time?
+  - liquid component of A1 medias
+  - grow purified strains in respective A1 media
+  - innoculate the 6 diff media with same bacteria simultaneously
+  - make controls of the 6 diff media --> take at most 5 mL of each media and put into sterile container
