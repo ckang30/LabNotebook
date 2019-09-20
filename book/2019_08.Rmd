@@ -128,3 +128,11 @@ Check this table may not be right
   - grow purified strains in respective A1 media
   - innoculate the 6 diff media with same bacteria simultaneously
   - make controls of the 6 diff media --> take at most 5 mL of each media and put into sterile container
+  
+## 09-20-2019
+  - A1M and A1F liquid media into 60 mL flasks
+  - Status of stains
+    - second agar plate for K1088 still growing, will check on Monday
+    - K1174 looked purified so innoculated new A1M liquid media
+    - K1214 unsure if purified so innoculated new A1F liquid media 
+    
