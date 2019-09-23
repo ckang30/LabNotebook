@@ -134,5 +134,11 @@ Check this table may not be right
   - Status of stains
     - second agar plate for K1088 still growing, will check on Monday
     - K1174 looked purified so innoculated new A1M liquid media
-    - K1214 unsure if purified so innoculated new A1F liquid media 
-    
+    - K1214 unsure if purified so innoculated new A1F liquid media
+      - will restreak onto agar plate from this media on Monday and then check for purity on Wednesday 
+
+## 09-23-2019
+  - K1040 liquid media flask --> streak onto A1F agar
+  - streak K1214 onto A1F agar
+  - K1088 purified on agar plate so innoculate new A1M liquid media flask
+  - K1174 looks like it's growing in the liquid media flask... will innoculate into 6 diff media types on Wednesday
