@@ -142,3 +142,11 @@ Check this table may not be right
   - streak K1214 onto A1F agar
   - K1088 purified on agar plate so innoculate new A1M liquid media flask
   - K1174 looks like it's growing in the liquid media flask... will innoculate into 6 diff media types on Wednesday
+  - talked to Jeongho about K1164, has plate somewhere on his bench
+    - grew well for him initially on A1M agar plate
+    - had trouble, especially with contanimation, afterwards with growing in other media and using in bioassays 
+      - A1m + Na Butylate
+      - ISP2
+      - modified ISP@ (Glc-->Glycerol)
+      - Defined media
+      - NZSG
