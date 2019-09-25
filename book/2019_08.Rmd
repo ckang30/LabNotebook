@@ -150,3 +150,9 @@ Check this table may not be right
       - modified ISP@ (Glc-->Glycerol)
       - Defined media
       - NZSG
+
+## 09-25-2019
+  - K1040 into liquid A1F flask
+  - K1164 1 mL of Sofia's cryovial placed into A1M liquid flask
+  - dry components of media for NZSG, ISP2 bfe+c, and TB were made for marine 500 mL because the autoclaves were down
+    - different colored liquid media for the flasks that were already made so to be sure, completely new flasks were made
