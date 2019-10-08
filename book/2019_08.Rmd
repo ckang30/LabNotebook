@@ -147,7 +147,7 @@ Check this table may not be right
     - had trouble, especially with contanimation, afterwards with growing in other media and using in bioassays 
       - A1m + Na Butylate
       - ISP2
-      - modified ISP@ (Glc-->Glycerol)
+      - modified ISP2 (Glc-->Glycerol)
       - Defined media
       - NZSG
 
@@ -156,3 +156,29 @@ Check this table may not be right
   - K1164 1 mL of Sofia's cryovial placed into A1M liquid flask
   - dry components of media for NZSG, ISP2 bfe+c, and TB were made for marine 500 mL because the autoclaves were down
     - different colored liquid media for the flasks that were already made so to be sure, completely new flasks were made
+    
+## 09-27-2019
+  - 8x 60 mL liquid media flasks made for the media types listed above
+  - K1040 onto A1F agar
+  - K1164 onto A1M agar 
+    - may have to restreak on Monday from liquid bc not too much growth in liquid flask
+
+## 09-30-2019
+
+Where we are right now
+
+  - K1174 A1M 9/20 PURIFIED LIQUID
+  - K1088 A1M 9/23 PURIFIED LIQUID
+  - K1040 A1F 9/27 AGAR NEEDS BE CHECKED FOR PURIFICATION (THEN INTO FINAL LIQUID)
+  - K1164 A1M 9/27 AGAR NEEDS TO BE STREAKED ONTO LIQUID MEDIA FOR PURIFICATION PROCESS (THEN ONTO SECOND AGAR)
+  - K1214 A1F 9/20 LAST FLASK... 9/9 SUPPOSEDLY PURE... GIVING UP?
+
+## 10-02-2019
+  - K1174 (A1M), K1088 (A1M), and K1040 (A1F) were innoculated into 6 different media types respective to what they were grown in
+  - K1164 (A1M) onto second agar
+  
+## 10-04-2019
+  - K1164 into A1m purification liquid media
+
+## 10-07-2019
+  K1164 was innoculated into 6 different media types. However, at the end of innoculation, it was noted that there were concerning orange clumps on the inside walls of the flask containing K1164 liquid media from 10/4... so new liquid media flask A1M was innoculated for K1164 using the agar plate from 10/2/2019. (should check that there is growth in both flasks next time you come into lab for the liquid medias) The agar plate shows dry looking, stringed whitish bacteria. The flasks were placed on the shaker. 
