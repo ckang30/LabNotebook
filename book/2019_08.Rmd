@@ -191,3 +191,39 @@ Where we are right now
   The bacteria (K1088, K1174, K1040) in 6 diff media types was moved into the bottom shelf of the -80 fridge off of the shaker because we wanted to slow everything down without killing the bacteria. Possible lysing may occur. K1164 was checked. Growth present in both flasks. "K1164 from plate" flask also had orange solid dot on the side of the flask, so we restreaked a new A1M flask with K1164 from the plate from 10/2/2019. The plate looks clean. 
   two versions of CGS liquid media (500 mL) was made in large culture flasks. New CGS contained new casamino and soytone components whereas the old CGS contained old components. This was because old CGS was observed to be growing a bacteria. 
   4 x 60 mL A1M media flasks were also made. 
+
+## 10-16-2019
+  MALDI plates using the JOVE protocol
+  Allocated CHCA into 1 mL distributions into 5 microcentrifuge tubes
+  matrix solution: 100 킠 solution = 50 킠 ACN + 47.5 킠 H2O + 2.5 킠 TFA + 1 mg CHCA
+  The flasks containing the bacteria in the fridge were taken out of the fridge and were thawed in 35 degree water incubator. The MALDI plate was cleaned using a Kimwipe and methanol. 1 킠 of matrix solution was placed onto target spot on plate. 1 킠 of bacteria sample was taken from the flask and placed on top of the matrix solution. The two were mixed on the spot on the plate by pipetting up and down a few times.
+  
+
+#### 1174
+  - C2-A1M
+  - C3-ISP2 bfe + c
+  - C4-CGS
+  - D2-CHITIN
+  - D3-LEFT FOR CALIBRATION
+  - D4-NZSG
+  - E3-TB
+  
+  
+#### 1088
+  - C15-A1M
+  - C16-ISP2 bfe + c
+  - C17-CGS
+  - D15-CHITIN
+  - D17-NZSG
+  - E16-TB
+  
+  
+#### 1040 
+  - C9-A1F
+  - C10-ISP2 bfe + c
+  - C11-CGS
+  - D9-CHITIN
+  - D10-LEFT FOR CALIBRATION 
+  - D11-NZSG
+  - E10-TB
+  
